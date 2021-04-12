@@ -1,0 +1,3 @@
+1、划分目录结构
+2、引用两个css文件（normalize.css和base.css）
+3、配置两个文件：a、vue.config.js，给路径取别名，b、.editorconfig,规范编程格式
